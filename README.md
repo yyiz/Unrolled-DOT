@@ -1,5 +1,7 @@
 # Unrolled-DOT: An Interpretable Deep Network for Diffuse Optical Tomography
 
+### [Paper](https://doi.org/10.1117/1.JBO.28.3.036002) | [Data](https://doi.org/10.5281/zenodo.7654959)
+
 Official Implementation for Unrolled-DOT: an unrolled network for solving (time-of-flight) diffuse optical tomography inverse problems.
 
 [Yongyi Zhao](https://yongyizhao.com/), [Ankit Raghuram](https://sites.google.com/view/araghuram/), Fay Wang, Hyun Keol Kim, Andreas Hielscher, Jacob Robinson, and Ashok Veeraraghavan. 
